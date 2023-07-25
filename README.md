@@ -45,7 +45,7 @@ with open('/content/drive/My Drive/python/p1.txt','w') as g:
 
 ### OUTPUT:
 
-![output](/copy.png)
+![output](</copy(1).png>)
 ![output](/old.png)
 ![output](/new.png)
 
