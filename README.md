@@ -21,7 +21,7 @@ read the text file
 
 ### Step 3:
 
-copy the file using write mode
+Copy the file using write mode
 
 ### Step 4:
 
